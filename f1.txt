@@ -8,3 +8,6 @@ Trying to make branch
 added in new_branch
 
 added in new_branch_1
+
+changes made in branch1
+changes made in branch2
